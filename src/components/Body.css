@@ -1,0 +1,35 @@
+.container {
+    padding-top: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    z-index: 0;
+    background-color: darkgray;
+    position:relative;
+    z-index: 0;
+
+
+
+}
+.cell {
+    display:grid;
+    background-color: lightgray;
+    padding: 1rem;
+    z-index: 1;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat(4, 75px);
+
+
+}
+
+.button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9, .buttonx, .button÷, .button-, .buttonplus, .buttondot, .buttonequals{
+    display:grid;
+    color: black;
+    padding: 15px 32px;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    font-size: x-large;
+
+
+
+}
+
