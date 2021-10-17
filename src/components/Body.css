@@ -22,7 +22,7 @@
 
 }
 
-.button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9, .buttonx, .button÷, .button-, .buttonplus, .buttondot, .buttonequals{
+.button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9, .buttonx, .button÷, .button-, .buttonplus, .buttondot, .buttonequals, .buttonC, .buttonCE, .buttonleft, .buttonright{
     display:grid;
     color: black;
     padding: 15px 32px;

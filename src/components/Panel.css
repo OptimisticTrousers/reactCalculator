@@ -1,4 +1,4 @@
-.panel {
+.panel, .value {
     position: absolute;
     margin-left: 90px;
     margin-top: 50px;
