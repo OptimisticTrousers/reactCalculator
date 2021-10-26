@@ -4,6 +4,10 @@ import './Body.css'
 import './Body.js'
 import Body from './Body.js';
 
+const inputStyle = {
+    color:"red",
+    width: 1000
+}
 
 export class Panel extends React.Component
 {
@@ -12,7 +16,8 @@ export class Panel extends React.Component
         super(props);
 
         this.state = {
-            input: ''
+            input: '',
+            buttonArray: []
         }
 
         this.handleChange = this.handleChange.bind(this)
@@ -20,7 +25,7 @@ export class Panel extends React.Component
 
     handleChange(event){
         this.setState({
-            input: event.input.value
+            input: event.target.value
         });
     }
 
@@ -32,7 +37,7 @@ export class Panel extends React.Component
         <div className = "panel">
             <div className = "flexbox-item1">
             <input value = {this.state.input} onChange = {this.handleChange}/>
-            <h1>{this.state.input}</h1>
+            <h1 inputStyle>{this.state.input}</h1>
             </div>
             </div>
         
