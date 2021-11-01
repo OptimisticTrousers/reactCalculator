@@ -3,10 +3,9 @@
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 100px;
-    z-index: 0;
     background-color: darkgray;
     position:relative;
-    z-index: 0;
+    z-index: 1;
 
 
 
@@ -15,7 +14,6 @@
     display:grid;
     background-color: lightgray;
     padding: 1rem;
-    z-index: 1;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: repeat(4, 75px);
 
