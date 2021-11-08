@@ -1,43 +1,22 @@
 import React, {Component} from 'react';
-import './Panel.css'
-import './Body.css'
-import './Body.js'
-import Body from './Body.js';
 
-const inputStyle = {
-    color:"red",
-    width: 1000
-}
 
-export class Panel extends React.Component
+class Panel extends React.Component
 {
 
     constructor(props){
-        super(props);
-
-        this.state = {
-            input: '',
-            buttonArray: []
-        }
-
-        this.handleChange = this.handleChange.bind(this)
-    }
-
-    handleChange(event){
-        this.setState({
-            input: event.target.value
-        });
+        super(props)
     }
 
 
 
     render(){
+        let {input} = this.props
         
         return(
         <div className = "panel">
             <div className = "flexbox-item1">
-            <input value = {this.state.input} onChange = {this.handleChange}/>
-            <h1 inputStyle>{this.state.input}</h1>
+            <h1>{input}</h1>
             </div>
             </div>
         

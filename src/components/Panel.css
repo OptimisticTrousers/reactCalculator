@@ -1,12 +1,12 @@
 .panel, .value {
     position: absolute;
-    margin-left: 90px;
+    margin-left: 100px;
     margin-top: 50px;
-    background-color: gray;
+    background-color: yellow;
     border: 3px solid black;
     display:flex;
     justify-content: stretch;
-    width: 1600px;
+    width: 620px;
     z-index: 2;
 }
 
@@ -14,6 +14,7 @@
     padding-left: 35px;
     padding-bottom: 200px;
     margin: auto;
+    z-index: 3;
 }
 
 
