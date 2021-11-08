@@ -6,7 +6,7 @@
   <img alt="Version" src="https://img.shields.io/badge/language-HTML-red.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/language-CSS-blue.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/language-Javascript-yellow.svg?cacheSeconds=2592000" />
-  <img src="https://user-images.githubusercontent.com/36343664/140670372-17255e8e-1ab5-41fd-ad85-c1944afa9825.png" alt = "HTML, CSS, and Javascript"width="400" height = "282"</a>
+  <img src="https://user-images.githubusercontent.com/36343664/140670372-17255e8e-1ab5-41fd-ad85-c1944afa9825.png" alt = "HTML, CSS, and Javascript"width="600" height = "424"</a>
 
 </p>
 
