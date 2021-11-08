@@ -2,11 +2,11 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.2-blue.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/library-React-white.svg?cacheSeconds=2592000" />
-  <img alt="Version" src="https://img.shields.io/badge/Editor-VSCode-black.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/editor-VSCode-black.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/language-HTML-red.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/language-CSS-blue.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/language-Javascript-yellow.svg?cacheSeconds=2592000" />
-  <img src="https://user-images.githubusercontent.com/36343664/140670372-17255e8e-1ab5-41fd-ad85-c1944afa9825.png" alt = "HTML, CSS, and Javascript"width="200" height = "200"</a>
+  <img src="https://user-images.githubusercontent.com/36343664/140670372-17255e8e-1ab5-41fd-ad85-c1944afa9825.png" alt = "HTML, CSS, and Javascript"width="400" height = "282"</a>
 
 </p>
 
@@ -23,6 +23,7 @@
 
 ## Installation
 
-* Clone repo, then run either <strong>yarn start</strong> or <strong>npm start</strong>
+* Clone repo, cd into directory, then run either <strong>yarn start</strong> or <strong>npm start</strong>. 
 
-<img src = "Breakout Game.png"/>
+
+<img src = "https://user-images.githubusercontent.com/36343664/140670976-9ff52994-5e00-4aca-87e6-9cb23b1db99f.png"/>
